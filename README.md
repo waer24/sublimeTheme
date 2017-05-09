@@ -7,8 +7,13 @@ Apply to Sublime Text 3
 
 #### Done!
 
-Results:
-js:
+#### Results:
+#### js:
+![image](https://github.com/waer24/sublimeTheme/blob/master/image/js-screenshorts.png)
 
+#### css:
+![image](https://github.com/waer24/sublimeTheme/blob/master/image/css-screenshorts.png)
 
+#### html:
+![image](https://github.com/waer24/sublimeTheme/blob/master/image/html-screenshorts.png)
 
